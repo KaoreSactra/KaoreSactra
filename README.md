@@ -14,7 +14,7 @@
 
 <br><br>
 
-##  🛠 &nbsp;Ferramentas:
+##  🛠 &nbsp;Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,14 +26,14 @@
 
 <br>
 
-## Contato:
+## Contato
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/gustavo-silva-arag%C3%A3o" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gustavo Silva Aragão-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/gusta_sactra" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Gusta_Sactra-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
