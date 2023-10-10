@@ -8,7 +8,10 @@
 - ☕  Viciado em café.
 - 🍔  Passatempo é cozinhar.
 
-<br><br>
+<br>
+"Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência desenvolveu-se mais do que a nossa sabedoria."
+**~ Roger Revelle**
+<br>
 
 🛠 &nbsp;Utilitários:
 
