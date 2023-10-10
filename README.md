@@ -6,7 +6,7 @@
 - 💉  Atualmente trabalhando na Astrazeneca Brasil.
 - ✈  Sonho de morar fora.
 - ☕  Viciado em café.
-- 🍔  Passatempo é cozinhar.
+- 👓  Objetivo: entender a tecnologia.
 
 <br>
 "Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência desenvolveu-se mais do que a nossa sabedoria."
@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
+<br><br>
 
 ⚙️ &nbsp;GitHub Analytics
 
