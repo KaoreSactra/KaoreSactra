@@ -14,7 +14,7 @@
 
 <br><br>
 
-🛠 &nbsp;Utilitários:
+##  🛠 &nbsp;Ferramentas:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,7 +26,9 @@
 
 <br>
 
-<p align="right" style="background:yellow">
+## Contato:
+
+<p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -37,7 +39,7 @@
 
 <br>
 
-⚙️ &nbsp;GitHub Analytics
+##  ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=KaoreSactra&show_icons=true&theme=dracula" alt="Gusta's stats"/>
