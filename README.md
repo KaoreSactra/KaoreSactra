@@ -10,7 +10,7 @@
 
 <br>
 "Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência desenvolveu-se mais do que a nossa sabedoria."
-**~ Roger Revelle**
+<strong>~Roger Revelle**</strong>
 <br>
 
 🛠 &nbsp;Utilitários:
