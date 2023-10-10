@@ -26,13 +26,6 @@
 
 <br><br>
 
-⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=KaoreSactra&show_icons=true&theme=dracula" alt="Gusta's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaoreSactra&layout=compact&theme=dracula" alt="Gusta's most languages"/>
-</p>
-
 <p align="right" style="background:yellow">
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -40,4 +33,11 @@
 <a href="https://instagram.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+</p>
+
+⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=KaoreSactra&show_icons=true&theme=dracula" alt="Gusta's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaoreSactra&layout=compact&theme=dracula" alt="Gusta's most languages"/>
 </p>
