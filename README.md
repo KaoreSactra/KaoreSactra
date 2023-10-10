@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>
 
 <p align="right" style="background:yellow">
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
@@ -34,6 +34,8 @@
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<br>
 
 ⚙️ &nbsp;GitHub Analytics
 
