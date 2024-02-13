@@ -3,7 +3,7 @@
 <h1 align="left">Seja Bem-Vindo!</h1>
 
 - 🎓  Estudante de Analise e Desenvolvimento de Sistemas.
-- 💉  Atualmente trabalhando na Astrazeneca Brasil.
+- 💼  Procurando emprego nas áreas de tecnologia.
 - ✈  Sonho de morar fora.
 - ☕  Viciado em café.
 - 👓  Objetivo: entender a tecnologia.
