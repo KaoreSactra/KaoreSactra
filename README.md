@@ -3,7 +3,7 @@
 <h1 align="left">Seja Bem-Vindo!</h1>
 
 - 🎓  Estudante de Analise e Desenvolvimento de Sistemas.
-- 💼  Procurando emprego nas áreas de tecnologia.
+- 💼  Procurando oportunidades em trabalhar com tecnologia!
 - ✈  Sonho de morar fora.
 - ☕  Viciado em café.
 - 👓  Objetivo: entender a tecnologia.
