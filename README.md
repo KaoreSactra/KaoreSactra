@@ -8,7 +8,7 @@
 - ☕  Viciado em café.
 - 👓  Objetivo: entender a tecnologia.
 
-<br>
+<br><br><br>
 "Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência desenvolveu-se mais do que a nossa sabedoria."
 <strong>~Roger Revelle</strong>
 
