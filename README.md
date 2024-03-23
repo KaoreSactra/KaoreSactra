@@ -2,13 +2,15 @@
 
 <img align="right" height="390em" src="https://raw.githubusercontent.com/gist/KaoreSactra/5aad67688a2c1c99a8e4f533b529d876/raw/5a7cf0c4f3846a949ac540a8eaaf09ead5504cc8/Gitcard.svg"/>
 
+<br>
+
 - 🎓  Estudante de Analise e Desenvolvimento de Sistemas.
 - 💼  Procurando oportunidades em trabalhar com tecnologia.
 - ✈  Sonho de morar fora.
 - ☕  Viciado em café.
 - 👓  Objetivo: entender a tecnologia.
 
-<br><br><br>
+<br><br>
 "Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência desenvolveu-se mais do que a nossa sabedoria."
 <strong>~Roger Revelle</strong>
 
