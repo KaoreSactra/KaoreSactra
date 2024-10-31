@@ -45,5 +45,5 @@
 ##  ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaoreSactra&layout=compact&theme=dark" alt="Gusta's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaoreSactra&layout=compact&theme=github_dark" alt="Gusta's most languages"/>
 </p>
