@@ -5,7 +5,7 @@
 <br>
 
 - 🎓  Estudante de Analise e Desenvolvimento de Sistemas.
-- 💼  Trabalhando com a Connect Station.
+- 💼  A Procura de emprego.
 - ✈  Sonho de morar fora.
 - ☕  Viciado em café.
 - 👓  Objetivo: entender a tecnologia.
