@@ -26,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 
 <br>
 
