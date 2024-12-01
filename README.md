@@ -1,6 +1,4 @@
-<h1 align="left">Seja Bem-Vindo!</h1>
-
-
+<h1 align="center">Seja Bem-Vindo!</h1>
 <br>
 
 - 🎓  Estudante de Analise e Desenvolvimento de Sistemas.
@@ -10,8 +8,11 @@
 - 👓  Objetivo: entender a tecnologia.
 
 <br><br>
-"Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência<br>desenvolveu-se mais do que a nossa sabedoria."
-<strong>~Roger Revelle</strong>
+<div align="center">
+    <p>"Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência<br>desenvolveu-se mais do que a nossa sabedoria."</p>
+    <strong>~Roger Revelle</strong>
+</div>
+
 
 <br><br>
 
