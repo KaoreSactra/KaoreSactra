@@ -1,6 +1,5 @@
 <h1 align="left">Seja Bem-Vindo!</h1>
 
-<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/KaoreSactra/5aad67688a2c1c99a8e4f533b529d876/raw/5a7cf0c4f3846a949ac540a8eaaf09ead5504cc8/Gitcard.svg"/>
 
 <br>
 
@@ -11,7 +10,7 @@
 - 👓  Objetivo: entender a tecnologia.
 
 <br><br>
-"Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência desenvolveu-se mais do que a nossa sabedoria."
+"Nossa tecnologia passou a frente de nosso entendimento, e a nossa inteligência<br>desenvolveu-se mais do que a nossa sabedoria."
 <strong>~Roger Revelle</strong>
 
 <br><br>
