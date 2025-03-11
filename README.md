@@ -3,7 +3,6 @@
 
 - 🎓  Estudante de Analise e Desenvolvimento de Sistemas.
 - 💼  A Procura de emprego.
-- ✈  Sonho de morar fora.
 - ☕  Viciado em café.
 - 👓  Objetivo: entender a tecnologia.
 
