@@ -35,7 +35,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/gustavo-aragao-dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gustavo Silva Aragão-05122A?style=flat&logo=invisionColor=fff" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Gustavo Silva Aragão-05122A?style=flat&logo=invision&logoColor=1572B6" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/gusta_sactra" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Gusta_Sactra-05122A?style=flat&logo=instagram" alt="instagram"/>
