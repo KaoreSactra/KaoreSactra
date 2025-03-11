@@ -19,7 +19,7 @@
 ##  🛠 &nbsp;Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=coffeescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -35,7 +35,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/gustavo-aragao-dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gustavo Silva Aragão-05122A?style=flat&logo=invision" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Gustavo Silva Aragão-05122A?style=flat&logo=invisionColor=fff" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/gusta_sactra" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Gusta_Sactra-05122A?style=flat&logo=instagram" alt="instagram"/>
