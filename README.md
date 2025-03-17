@@ -1,8 +1,8 @@
 <h1 align="center">Seja Bem-Vindo!</h1>
 <br>
 
+- 💼  Dev Full-Stack.
 - 🎓  Estudante de Analise e Desenvolvimento de Sistemas.
-- 💼  A Procura de emprego.
 - ☕  Viciado em café.
 - 👓  Objetivo: entender a tecnologia.
 
